@@ -33,17 +33,17 @@ img.hobbies-one,
 img.hobbies-two,
 img.hobbies-three {
   width: 400px;
-  height: 350px;
-  /*padding: 0px 55px 10px;*/
-  border-radius: 15px;
+  height: 450px;
+  padding: 10px 100px 100px;
+  border-radius: 50px;
 }
-
 img.anthonie-owen {
+  border-radius: 20px;
   width: 400px;
   height: 350px;
-  /*padding: 0px 55px 10px;*/
-  border-radius: 15px;
+  padding: 0px 700px 50px;
 }
+
 .grid {
   display: grid;
   margin-top: 10%;
